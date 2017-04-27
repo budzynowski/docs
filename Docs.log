@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.26)  27 APR 2017 13:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.26)  27 APR 2017 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,21 +691,26 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (./nginx.conf)
 [2
 
-] (./vhosts.conf)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 74.
+]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+(./vhosts.conf)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
  (./Docs.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
 Package rerunfilecheck Info: File `Docs.out' has not changed.
 (rerunfilecheck)             Checksum: CFE39019B508170E08E4EB893772B778;110.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
  ) 
 Here is how much of TeX's memory you used:
  8626 strings out of 494910
  117999 string characters out of 6179836
- 346674 words of memory out of 5000000
+ 346629 words of memory out of 5000000
  11768 multiletter control sequences out of 15000+600000
  9665 words of font info for 37 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -718,7 +723,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt8.pfb>
-Output written on Docs.pdf (4 pages, 134257 bytes).
+Output written on Docs.pdf (4 pages, 134675 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
