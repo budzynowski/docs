@@ -6,6 +6,11 @@
 \usepackage{listings}
 \usepackage{graphicx}
 \usepackage{color}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\includegraphics[height=0.2in]{PP_logo.png}}
+\fancyfoot[LE,RO]{\thepage}
  
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -31,6 +36,7 @@
     tabsize=2
 }
 \lstset{style=mystyle}
+
 
 \title{Documentation testing template}
 \date{April 27, 2017}
